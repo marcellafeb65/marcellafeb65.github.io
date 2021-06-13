@@ -1,14 +1,8 @@
-p {
-    font-family: arial;
-    line-height: 2.75em;
+body {
+  background-color: lightblue;
 }
 
-i {
-    font-family: arial;
-    color: orange;
-}
-
-h2 {
-    font-family: arial;
-    color: #1B9CFC;
+h1 {
+  color: navy;
+  margin-left: 20px;
 }
