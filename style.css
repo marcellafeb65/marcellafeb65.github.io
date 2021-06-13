@@ -6,3 +6,13 @@ h1 {
   color: navy;
   margin-left: 20px;
 }
+
+p {
+
+  border: 3px yellow;
+
+} 
+
+p.solid {border-style: solid;}
+
+<h1 style="color:Tomato;">Profil</h1>
